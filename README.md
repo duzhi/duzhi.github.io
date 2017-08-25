@@ -2,7 +2,9 @@
 Hello World
 
 # Spring Framework
-控制反转IOC，依赖注入DI，面向切面编程AOP
+- 控制反转IOC
+- 依赖注入DI
+- 面向切面编程AOP
 
 # MyBatis
 
