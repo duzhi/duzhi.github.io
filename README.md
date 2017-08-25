@@ -1,16 +1,16 @@
 # duzhi.github.io
 Hello World
 
-# Spring
-控制反转IOC，依赖注入DI，AOP
+# Spring Framework
+控制反转IOC，依赖注入DI，面向切面编程AOP
 
 # MyBatis
 
 # Spring MVC
 
-# Apache shiro
+# Apache Shiro
 
-# log4j self4j
+# Log4j SLF4J
 
 ## 次要
 # Netty
