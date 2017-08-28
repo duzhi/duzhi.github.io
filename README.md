@@ -2,8 +2,7 @@
 记录技术的最佳实践
 
 # Spring Framework
-- 控制反转IOC
-- 依赖注入DI
+- 控制反转IOC，或依赖注入DI
 - 面向切面编程AOP
 
 # MyBatis
