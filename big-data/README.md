@@ -4,3 +4,6 @@
 
 # hadoop、spark、kylin
 
+# 搜索引擎elasticsearch
+
+# 数据仓库Greenplum
