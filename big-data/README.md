@@ -5,7 +5,7 @@
 
 # 流式计算
 
-# Hadoop，Spark，Flink，Storm，Samaza，Kylin
+# Hadoop，Spark，Flink，Storm，Samza ，Kylin
 
 # 搜索引擎elasticsearch
 
