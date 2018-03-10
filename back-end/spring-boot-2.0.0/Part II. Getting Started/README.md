@@ -19,11 +19,11 @@ Spring Boot 可以轻松创建可以运行的独立的，生产级的基于 Spri
 
 Spring Boot 2.0.0.RELEASE 需要 Java 8 或 9 以及 Spring Framework 5.0.4.RELEASE 或更高版本。 为 Maven 3.2+ 和 Gradle 4 提供了明确的构建支持。
 
-### 9.1 Servlet容器
+### 9.1 Servlet 容器
 
-Spring Boot支持以下嵌入式servlet容器：
+Spring Boot 支持以下嵌入式 Servlet 容器：
 
-| 名称 | Servlet Version |
+|名称 |Servlet 版本 |
 | ------------- |-----------|
 | Tomcat 8.5 | 3.1 |
 | Jetty 9.4 | 3.1 |
