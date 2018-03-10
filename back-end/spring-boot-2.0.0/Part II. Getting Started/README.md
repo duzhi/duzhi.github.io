@@ -22,8 +22,9 @@ Spring Boot 2.0.0.RELEASE 需要 Java 8 或 9 以及 Spring Framework 5.0.4.RELE
 ### 9.1 Servlet容器
 
 Spring Boot支持以下嵌入式servlet容器：
+
 | 名称 | Servlet Version |
-| ------------- |:-------------:|
+| ------------- |-----------|
 | Tomcat 8.5 | 3.1 |
 | Jetty 9.4 | 3.1 |
 | Undertow 1.4 | 3.1 |
