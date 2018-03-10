@@ -30,3 +30,11 @@ Spring Boot 支持以下嵌入式 Servlet 容器：
 | Undertow 1.4 | 3.1 |
 
 您也可以将 Spring Boot 应用程序部署到任何 Servlet 3.0+ 兼容的容器。
+
+### 10. 安装 Spring Boot
+
+Spring Boot 可以与“经典” Java 开发工具一起使用，也可以作为命令行工具安装。 无论哪种方式，您都需要 Java SDK v1.8 或更高版本。 在开始之前，您应该使用以下命令检查当前的 Java 安装：
+
+```
+$ java -version
+```
