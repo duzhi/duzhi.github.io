@@ -43,7 +43,14 @@ Spring Boot 参考指南有以下格式：
 
 # 5. 学习 Spring Boot 特征
 
-...
+需要更多关于Spring Boot核心功能的细节？ 以下内容适合您：
+
+- 核心特性：SpringApplication | 外部配置| 配置文件| 日志
+- Web应用程序：MVC | 嵌入式容器
+- 使用数据：SQL | NO-SQL
+- 消息：概述 | JMS
+- 测试：概览 | 启动应用程序| Utils
+- 扩展：自动配置 | @Conditions
 
 # 6. 转向生产
 
