@@ -7,7 +7,7 @@
 D:\>where node
 D:\Program Files\nodejs\node.exe
 
-D:\\>node -v
+D:\>node -v
 v8.9.4
 
 D:\>where npm
