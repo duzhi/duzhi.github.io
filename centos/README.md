@@ -12,7 +12,7 @@
 ``` 
 # passwd <user>
 ```
-# 2. linux中查看某一进程的启动时间
+# 2. 查看进程的启动时间
 ```
 ps -p PID -o lstart
 ```
