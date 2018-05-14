@@ -1,3 +1,7 @@
+# 下载
+https://www.mysql.com/downloads/
+# MySQL Community Server下载，选择版本下载
+https://dev.mysql.com/downloads/mysql/
 
 #启动：
 >mysqld
@@ -6,6 +10,10 @@
 #关闭mysql服务器
 >mysqladmin -u root shutdown
 >mysqladmin -uroot -pmysql shutdown
+
+# 安装服务
+> //cmd以管理员运行  
+> mysqld --install
 
 #客户端连接（初始用户root，密码为空）：
 >mysql
@@ -36,7 +44,8 @@ mysql>update user set password=password('mysql') WHERE User='root';
 mysql>flush privileges;
 
 #建库
-CREATE DATABASE open_game DEFAULT CHARACTER SET utf8;
+(CREATE DATABASE open_game DEFAULT CHARACTER SET utf8;)
+create database study default character set utf8mb4 collate utf8mb4_unicode_ci;
 
 #建表语句
 mysqldump --no-data -u username -p* database_name > filename.sql
@@ -54,3 +63,14 @@ insert into `event` select CONCAT('a',current_timestamp(),round(round(rand(),12)
 # inner join小表放左侧
 
 
+# 分库分表中间件
+
+```
+https://github.com/sharding-sphere/sharding-sphere
+```
+
+# 分页中间件
+
+```
+https://github.com/pagehelper/pagehelper-spring-boot
+```
