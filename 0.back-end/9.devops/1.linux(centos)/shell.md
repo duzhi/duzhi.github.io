@@ -6,7 +6,7 @@ $ sha1sum filename.txt
 $ sha256sum filename.txt
 $ sha512sum filename.txt
 ```
-# scp上传
+# scp上传下载
 
 ```
 $ scp [-P port] file dest_user@dest_host:~/
