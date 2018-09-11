@@ -5,14 +5,7 @@
 <relativePath>../..</relativePath> 上上级目录pom.xml
 <relativePath>../current_dir_parent</relativePath> 同目录其他项目pom.xml
 
-# 分布式事务
 
-柔性事务分为：两阶段型、补偿型、异步确保型、最大努力通知型；
-https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html
-
-
-
-#  
 # git
 
 # java,javaee
