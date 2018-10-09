@@ -3,6 +3,13 @@
 
 # 2. package.json 作用
 
+## 四个可以简写的命令
+
+npm start == npm run start
+npm stop == npm run stop
+npm test == npm run test
+npm restart == npm run stop && npm run restart && npm run start
+
 # 3. webpack
 
 # 4. 
