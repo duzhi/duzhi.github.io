@@ -17,7 +17,6 @@ POST /biz/create-xxx：其他创建（可能有不同的约束条件独立接口
 POST /biz/update-xxx ：其他更新或删除
 GET/POST /biz/query-xxx：其他查询
 GET/POST /biz/xxx：其他查询，省略query-，不是update,create起始默认认为是查询，如报表统计查询等
-
 ```
 
 其中：GET 使用参数_body_传 json值，POST 使用 body 传 json值，可以使用param传参，业务自己定，注意编码问题
