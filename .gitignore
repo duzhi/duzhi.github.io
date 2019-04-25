@@ -1,2 +1,10 @@
 /.project
 /.settings/
+/.classpath
+/target
+
+*.iml
+
+pom.xml
+
+/.idea
