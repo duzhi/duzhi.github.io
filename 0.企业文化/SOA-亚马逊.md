@@ -1,4 +1,4 @@
-# 亚马逊SOA
+# SOA: Service-Oriented Architecture
 
 2002年，贝索斯突然向全公司发布了一道指令：
 
