@@ -45,3 +45,13 @@ npm restart == npm run stop && npm run restart && npm run start
 	如何允许跨源访问
 	使用 CORS 允许跨源访问。
 
+## 前端页面
+
+1、服务器直接渲染动态 HTML
+HTML 或 JS 解析的动态数据
+
+2、服务器渲染动态数据
+动态数据已经在页面，页面 ready/load 完成动态数据装配
+
+3、获取 HTML 及 数据接口
+页面装载完 Ajax 方式 ready/load 数据，SPA 就是这种方式
