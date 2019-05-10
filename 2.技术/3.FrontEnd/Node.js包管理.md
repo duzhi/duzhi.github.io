@@ -7,6 +7,20 @@ http://blog.xgheaven.com/2018/05/03/npm-to-yarn-to-npm/
 yarn npm 对照
 https://yarnpkg.com/en/docs/migrating-from-npm
 
+列出仓库中包的详细信息
+npm info {package}
+
+列出仓库中包的所有版本
+npm view {package} versions
+
+列出仓库中包的最新版本
+npm view {package} version
+
+查看本地包中的版本（好像非正式版不显示）
+npm ls {package}
+
+查看全局包中的版本
+npm ls {package} -g
 
 ## Yarn和npm命令对比
 
