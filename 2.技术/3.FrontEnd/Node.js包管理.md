@@ -4,6 +4,10 @@
 npm -> cnpm -> yarn -> (npm + npm-check + npx)
 http://blog.xgheaven.com/2018/05/03/npm-to-yarn-to-npm/
 
+## npm
+
+npm install npm@latest -g
+
 yarn npm 对照
 https://yarnpkg.com/en/docs/migrating-from-npm
 
